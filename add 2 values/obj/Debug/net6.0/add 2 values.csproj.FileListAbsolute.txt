@@ -1,0 +1,15 @@
+F:\c#\add 2 values\add 2 values\bin\Debug\net6.0\add 2 values.exe
+F:\c#\add 2 values\add 2 values\bin\Debug\net6.0\add 2 values.deps.json
+F:\c#\add 2 values\add 2 values\bin\Debug\net6.0\add 2 values.runtimeconfig.json
+F:\c#\add 2 values\add 2 values\bin\Debug\net6.0\add 2 values.dll
+F:\c#\add 2 values\add 2 values\bin\Debug\net6.0\add 2 values.pdb
+F:\c#\add 2 values\add 2 values\obj\Debug\net6.0\add 2 values.csproj.AssemblyReference.cache
+F:\c#\add 2 values\add 2 values\obj\Debug\net6.0\add 2 values.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\add 2 values\add 2 values\obj\Debug\net6.0\add 2 values.AssemblyInfoInputs.cache
+F:\c#\add 2 values\add 2 values\obj\Debug\net6.0\add 2 values.AssemblyInfo.cs
+F:\c#\add 2 values\add 2 values\obj\Debug\net6.0\add 2 values.csproj.CoreCompileInputs.cache
+F:\c#\add 2 values\add 2 values\obj\Debug\net6.0\add 2 values.dll
+F:\c#\add 2 values\add 2 values\obj\Debug\net6.0\refint\add 2 values.dll
+F:\c#\add 2 values\add 2 values\obj\Debug\net6.0\add 2 values.pdb
+F:\c#\add 2 values\add 2 values\obj\Debug\net6.0\add 2 values.genruntimeconfig.cache
+F:\c#\add 2 values\add 2 values\obj\Debug\net6.0\ref\add 2 values.dll
